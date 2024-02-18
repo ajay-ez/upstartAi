@@ -33,6 +33,7 @@ h6 {
   font-family: "Jost", sans-serif;
 }
 
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -609,6 +610,10 @@ section {
 
 .about .content ul li+li {
   margin-top: 10px;
+}
+
+.about .row content{
+  text-align: justify;
 }
 
 .about .content ul i {
@@ -1823,3 +1828,4 @@ section {
     padding-top: 4px;
   }
 }
+
